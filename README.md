@@ -1,1 +1,1 @@
-# Basic-Stack-In-CPP
+# Basic Stack Algorithm in C++
